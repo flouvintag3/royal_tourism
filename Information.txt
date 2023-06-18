@@ -1,0 +1,5 @@
+Database Name : - Royal_tourism.sql
+user name : - Admin
+password  : - 1234
+
+ENJOY 
